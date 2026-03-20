@@ -14,8 +14,9 @@ A modern Flutter application with clean UI, smooth animations, and scalable arch
 ---
 
 ## 📸 Screenshots
+![Home](assets/screenshots/page1.png)
 
-![Home](assets/screenshots/page1.png) | ![Details](assets/screenshots/page2.png) 
+![Details](assets/screenshots/page2.png)
 
 
 ---
@@ -44,7 +45,6 @@ This app UI is inspired by designs from:
 ### Run Project
 
 ```bash
-git clone https://github.com/your-username/quickeee_task.git
 cd quickeee_task
 flutter pub get
 flutter run
