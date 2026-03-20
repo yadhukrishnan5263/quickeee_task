@@ -14,9 +14,7 @@ A modern Flutter application with clean UI, smooth animations, and scalable arch
 ---
 
 ## 📸 Screenshots
-![Home](assets/screenshots/page1.png)
-
-![Details](assets/screenshots/page2.png)
+![Home](assets/screenshots/page.png) ![Details](assets/screenshots/page2.png)
 
 
 ---
