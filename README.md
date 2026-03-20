@@ -44,7 +44,6 @@ This app UI is inspired by designs from:
 ### Run Project
 
 ```bash
-git clone https://github.com/your-username/quickeee_task.git
 cd quickeee_task
 flutter pub get
 flutter run
